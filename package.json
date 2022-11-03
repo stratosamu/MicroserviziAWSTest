@@ -1,0 +1,22 @@
+{
+  "name": "microserviziawstest",
+  "version": "1.0.0",
+  "description": "test server aws che restituisce un file json",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/stratosamu/Team1AWSHelloWorldTest.git"
+  },
+  "author": "Samuele Dentuti, Alessio Landi, Alberto Bagni, Luigi Jiang, Antonio Salomone, Giacomo Corcella",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/stratosamu/Team1AWSHelloWorldTest/issues"
+  },
+  "homepage": "https://github.com/stratosamu/Team1AWSHelloWorldTest#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
